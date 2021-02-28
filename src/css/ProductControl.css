@@ -1,0 +1,37 @@
+table{
+    border: 1px solid black;
+    width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+}
+table td{
+    border: 1px solid black;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+.ProductControl_paginaton{
+    margin: auto;
+    width: 90%;
+}
+.seachList{
+    width: 90%;
+    margin: 20px auto;
+    height: 50px;
+}
+.seachList input,.seachList button{
+    height: 50px;
+    font-size: 20px;
+    outline: none;
+    
+    padding: 0 5px;
+    
+}
+.seachList button:hover{
+    background-color: rgb(241, 234, 234);
+}
+.seachList button{
+    background-color: rgb(217, 203, 230);
+    margin-right: 0.5rem;
+    cursor: pointer;
+}

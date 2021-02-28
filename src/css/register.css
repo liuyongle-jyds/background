@@ -1,0 +1,47 @@
+.register{
+    width: 6rem;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(238, 215, 186);
+    padding-bottom: 20px;
+}
+.register>p{
+    text-align: right;margin-right: 10px;
+    
+}
+.register>p a{
+    color: cornflowerblue;
+}
+.register form{
+    margin-left: 30px;
+}
+.register form label{
+    text-align: center;
+    width: 54px;
+    display: inline-block;
+    height: 100%;
+}
+.register form .post{
+    text-align: center;
+}
+.register form .post button{
+    width:50%;
+    background-color: cornflowerblue;
+    border-radius: 8px;
+    outline: none;
+}
+.register form .post .active{
+    background-color: blue;
+}
+.register form p{
+    height: 40px;
+    line-height: 40px;
+}
+.register form .error{
+    font-size: 12px;
+    color: red;
+    margin-left: 5px;
+}
+html,body{
+background-color: black;
+}

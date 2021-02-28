@@ -1,0 +1,14 @@
+.user1_table{
+    margin-top: 20px;
+}
+.user1_tbody button{
+    background-color: cornflowerblue;
+    margin-right: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    outline: none;
+}
+.user1_paginaton{
+    width: 90%;
+    margin: auto;
+}

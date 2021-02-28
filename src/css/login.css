@@ -1,0 +1,26 @@
+.login_box{
+    width: 6rem;
+    margin: auto;
+    border: 1px solid rgb(182, 167, 167);
+    background-color: floralwhite;
+    text-align: center;
+    margin-top: 50px;
+}
+.login_box label{
+    display: inline-block;
+    width: 0.8rem;
+    text-align: center;
+}
+.login_box p{
+    height: 0.4rem;
+    line-height: 0.4rem;
+}
+.login_box button{
+    margin-right: 10px;
+    width: 50px;
+    height: 30px;
+    cursor: pointer;
+}
+body{
+    overflow-y: hidden;
+}

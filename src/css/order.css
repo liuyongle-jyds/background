@@ -1,0 +1,7 @@
+.order_td button{
+    margin-right: 5px;
+    background-color: cornflowerblue;
+    color: #333;
+    cursor: pointer;
+    outline: none;
+}
